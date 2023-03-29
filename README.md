@@ -29,4 +29,4 @@ First, I set up the array, made up of 5 different premade shape functions. I the
   }
 }
 
-Everything after this is the functions that define the shapes used in the array.
+Everything after this is the functions that define the shapes used in the array. I ran out of time to complete steps 2 and 3.
